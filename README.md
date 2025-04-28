@@ -1,7 +1,7 @@
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/images/screenshot1.png)
+![Home Page](lib/assets/images/home.jpg)
 
 ### Settings Page
-![Settings Page](assets/images/screenshot2.png)
+![Settings Page](lib/assets/images/location.jpg)
