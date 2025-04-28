@@ -1,7 +1,5 @@
-## Screenshots
+## 📸 Screenshots
 
-### Home Page
-![Home Page](assets/images/home.jpg)
-
-### Settings Page
-![Settings Page](assets/images/location.jpg)
+| Home | Location |
+|:---:|:---:|
+| ![Home](assets/screenshots/home.jpg) | ![Location](assets/screenshots/location.jpg) |
